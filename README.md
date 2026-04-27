@@ -16,10 +16,15 @@
 * 이메일 : cgh100039@gmail.com
 * GitHub : https://github.com/HoGeun1999
 --------------
+### CAREER
+* 니더(급구)(needer)
+  * Front-end
+  * 2025.03 ~
+--------------
 ### STACK
 * PYTHON
-* JavaScript, HTML, CSS
-* Node.js, React
+* JavaScript, TypeScript, HTML, CSS
+* Node.js, React, Vue, Tailwind CSS
 * GitHub
 * MySQL
 ---------
